@@ -15,3 +15,4 @@ Retos de [Javascript](https://adventjs.dev/es) creado por [@midudev](https://git
 | Challenge |         Solución          |
 | :-------: | :-----------------------: |
 |    #01    | [JS](2023/dia-1/index.js) |
+|    #02    | [JS](2023/dia-2/index.js) |
