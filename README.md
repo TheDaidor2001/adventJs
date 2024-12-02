@@ -2,11 +2,18 @@
 
 # AdventJS - Retos de Programación para la comunidad
 
-# [AdventJS](hhttps://adventjs.dev/es)
+# [AdventJS](https://adventjs.dev)
 
-Retos de [Javascript](https://adventjs.dev/es) creado por [@midudev](https://github.com/midudev/).
+Retos de [Javascript](https://adventjs.dev) creado por [@midudev](https://github.com/midudev/).
 
 </div>
+
+# 2024
+
+| Challenge |         Solución          |
+| :-------: | :-----------------------: |
+|    #01    | [JS](2024/dia-1/index.js) |
+|    #02    | [JS](2024/dia-2/index.js) |
 
 # 2023
 
