@@ -10,6 +10,8 @@ Retos de [Javascript](https://adventjs.dev) creado por [@midudev](https://github
 
 # 2024
 
+## Tabla de retos
+
 | Challenge |         Solución          |
 | :-------: | :-----------------------: |
 |    #01    | [JS](2024/dia-1/index.js) |
@@ -17,7 +19,7 @@ Retos de [Javascript](https://adventjs.dev) creado por [@midudev](https://github
 
 # 2023
 
-##Tabla de retos
+## Tabla de retos
 
 | Challenge |         Solución          |
 | :-------: | :-----------------------: |
