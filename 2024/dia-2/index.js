@@ -15,10 +15,10 @@ function createFrame(names) {
   });
 
   return `${"*".repeat(maxLength)}
-  ${names
-    .map((name) => `* ${name}${" ".repeat(maxLength - name.length - 3)}*`)
-    .join("\n")}
-  ${"*".repeat(maxLength)}`;
+${names
+  .map((name) => `* ${name}${" ".repeat(maxLength - name.length - 3)}*`)
+  .join("\n")}
+${"*".repeat(maxLength)}`;
 }
 
 createFrame(["midu", "madeval", "educalvolpz"]);
